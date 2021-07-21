@@ -1,0 +1,4 @@
+include ':maps'
+include ':core'
+rootProject.name='Tugas Sidik Dicoding'
+include ':app'
